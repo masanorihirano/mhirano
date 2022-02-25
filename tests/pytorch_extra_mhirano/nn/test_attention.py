@@ -1,4 +1,4 @@
-from pytorch_extra_mhirano.nn.attention import DotProductAttention
+from mhirano.nn.attention import DotProductAttention
 
 
 class TestDotProductionAttention:
